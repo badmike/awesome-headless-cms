@@ -1,10 +1,10 @@
 # Awesome Headless CMS [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
-[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp; 
-[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp; 
-[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
+[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp;
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp;
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp;
+[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp;
+[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp;
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
 > A curated list of awesome Headless CMS platforms, tools, resources, and guides for decoupled content management.
@@ -43,10 +43,11 @@ Headless CMS separates content management from the presentation layer, making it
 - [Netlify CMS](https://www.netlifycms.org/) – Open-source CMS built for static sites.
 - [Plasmic](https://www.plasmic.app/) – Visual CMS and builder with headless support.
 - [Keystone](https://keystonejs.com/) – CMS and GraphQL API builder.
+- [b10cks CMS](https://www.b10cks.com) - Open-source headless CMS with visual canvas, REST API, localization, and git-style versioning.
 
 ## Static Site CMS
 
-- [Forestry.io](https://forestry.io/) *(now deprecated)* – Used with Git and static site generators.
+- [Forestry.io](https://forestry.io/) _(now deprecated)_ – Used with Git and static site generators.
 - [CloudCannon](https://cloudcannon.com/) – CMS for Jekyll, Hugo, and Eleventy.
 - [Stackbit](https://www.stackbit.com/) – Visual editor for static sites and JAMstack.
 
@@ -91,7 +92,7 @@ Headless CMS separates content management from the presentation layer, making it
 - [Awesome CMS](https://github.com/awesomelistsio/awesome-cms)
 - [Awesome Static Website Services](https://github.com/awesomelistsio/awesome-static-website-services)
 - [Awesome WordPress Headless](https://github.com/awesomelistsio/headless-wp-starter)
-  
+
 ## Contribute
 
 Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
